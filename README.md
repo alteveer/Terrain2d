@@ -1,2 +1,2 @@
-# Terrain2d
-alteveer/Terrain, but in 2d!
+# Terrain
+Unreal 4 "Marching Cubes" Terrain Plugin
